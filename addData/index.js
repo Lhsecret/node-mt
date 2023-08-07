@@ -1,0 +1,6 @@
+// require('./cities.js')
+// require('./Foodcaterory.js')
+// require('./lunbo')
+// require('./shop')
+// require('./ShopAndFood')  
+// require('./userinfo')

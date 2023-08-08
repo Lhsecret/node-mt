@@ -1,6 +1,12 @@
-# node-mt
-vue-mt的后端代码
-代码基于nodejs的express框架编写，同时以mongoodb作为数据库
+
+模拟美团的后端代码
+==============
+# 代码运行
+##代码基于nodejs的express框架编写，同时以mongoodb作为数据库
 在安装好node之后，npm i 下载依赖
-node app运行即可
+node app运行即可。
+
+## 补充
+这个项目的数据都是个人手敲编写的，不是很完善，还有重复数据，但是不妨碍效果实现。尤其是搜索数据那一块只有特定搜索文本才有结果，比如烧烤，高粱酒。
+
 前端地址：https://github.com/Lhsecret/vue-mt
